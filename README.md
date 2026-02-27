@@ -1,8 +1,10 @@
 # databahn
 
-**Own your digital identity.**
+**You've spent years building your digital life. You don't own any of it.**
 
-databahn is a decentralized platform that lets users reclaim ownership of their digital identity and content. Instead of renting your online presence from Big Tech, databahn gives you a cryptographic identity that no platform can revoke — and signs every piece of content you've ever created so you can prove it's yours.
+Every tweet you've written, every connection you've made, every audience you've built — it all lives on servers controlled by companies that can suspend you, shadow-ban you, or disappear overnight. Your digital identity isn't yours. It's rented.
+
+databahn changes that. One cryptographic key. One identity. Yours forever. We pull your content out of walled gardens, sign every piece of it with your key, and give you a verifiable, portable identity that no platform can touch. Not Twitter. Not Meta. Not anyone.
 
 ---
 
